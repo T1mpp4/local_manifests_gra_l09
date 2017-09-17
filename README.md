@@ -1,9 +1,9 @@
 # Huawei Ascend P8 CM Manifest
 
 ## Instructions
-- repo init -u git://github.com/CyanogenMod/android.git -b cm-13.0
+- repo init -u repo init -u https://android.googlesource.com/platform/manifest -b android-6.0.1_r80
 - repo sync
-- repo init -b stable/cm-13.0-ZNH5Y
+- cd .repo
 - git clone gra_l09_local_manifests --> .repo/local_manifests
 - repo sync --force-sync (use python 2.7!)
 
