@@ -1,4 +1,4 @@
-# Huawei Ascend P8 CM Manifest
+# Huawei Ascend P8 AOSP Manifest
 
 ## Instructions
 - repo init -u repo init -u https://android.googlesource.com/platform/manifest -b android-6.0.1_r80
