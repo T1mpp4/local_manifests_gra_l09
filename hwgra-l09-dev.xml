@@ -3,7 +3,7 @@
 <manifest>
  
   <!-- Files to build the rom  -->
-  <project name="T1mpp4/device_device_gra_l09" path="device/huawei/hwgra" revision="aosp-6.0" remote="github" />
+  <project name="T1mpp4/device_gra_l09" path="device/huawei/hwgra" revision="aosp-6.0" remote="github" />
   <project name="CM-Huawei-P8-Development/kernel" path="kernel/huawei/kernel" revision="cm-13-v3.10.86-ndk" remote="github" />
   
   <!-- TWRP -->
