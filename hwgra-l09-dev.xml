@@ -19,6 +19,6 @@
   
   <!-- sepolicy -->
   
-  <remove name="LineageOS/android_external_sepolicy" />
-  <!--<project name="CM-Huawei-P8-Development/android_external_sepolicy" path="external/sepolicy" remote="github" revision="stable/cm-13.0-ZNH5Y" />-->
+  <!--<remove-project name="LineageOS/android_external_sepolicy" />-->
+  <project name="CM-Huawei-P8-Development/android_external_sepolicy" path="external/sepolicy" remote="github" revision="stable/cm-13.0-ZNH5Y" />
 </manifest>
