@@ -3,7 +3,7 @@
 <manifest>
  
   <!-- Files to build the rom  -->
-  <project name="CM-Huawei-P8-Development/device_gra_l09" path="device/huawei/hwgra" revision="lineage-14.1" remote="github" />
+  <project name="T1mpp4/device_huawei_gra_l09" path="device/huawei/hwgra" revision="lineage-14.1" remote="github" />
   <project name="CM-Huawei-P8-Development/kernel" path="kernel/huawei/kernel" revision="lineage-14.1" remote="github" />
   
   <!-- TWRP -->
@@ -18,8 +18,7 @@
   <project name="LineageOS/android_vendor_nxp-nfc_opensource_Nfc" path="vendor/nxp-nfc/opensource/Nfc" remote="github" revision="cm-14.1" />
   
   <!-- sepolicy -->
-  <!--
-  <remove-project name="LineageOS/android_external_sepolicy" />
-  <project name="CM-Huawei-P8-Development/android_external_sepolicy" path="external/sepolicy" remote="github" revision="stable/cm-13.0-ZNH5Y" />
-  -->
+  
+  <remove name="LineageOS/android_external_sepolicy" />
+  <!--<project name="CM-Huawei-P8-Development/android_external_sepolicy" path="external/sepolicy" remote="github" revision="stable/cm-13.0-ZNH5Y" />-->
 </manifest>
