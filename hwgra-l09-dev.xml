@@ -10,7 +10,7 @@
   <project name="CM-Huawei-P8-Development/team_win_recovery_project" path="bootable/recovery-twrp" revision="android-6.0" remote="github" />
 
   <!-- BusyBox -->
-  <project name="CM-Huawei-P8-Development/busybox" path="external/busybox" remote="github" revision="cm-13.0-ZNH5Y" />  
+  <!--<project name="CM-Huawei-P8-Development/busybox" path="external/busybox" remote="github" revision="cm-13.0-ZNH5Y" />-->
 
   <!-- Opensource NFC -->
   <project name="LineageOS/android_vendor_nxp-nfc_opensource_frameworks" path="vendor/nxp-nfc/opensource/frameworks" remote="github" revision="cm-14.1" />
