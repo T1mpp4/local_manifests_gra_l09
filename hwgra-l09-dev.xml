@@ -18,7 +18,6 @@
   <project name="LineageOS/android_vendor_nxp-nfc_opensource_Nfc" path="vendor/nxp-nfc/opensource/Nfc" remote="github" revision="cm-14.1" />
   
   <!-- sepolicy -->
-  
   <!--<remove-project name="LineageOS/android_external_sepolicy" />-->
   <project name="CM-Huawei-P8-Development/android_external_sepolicy" path="external/sepolicy" remote="github" revision="stable/cm-13.0-ZNH5Y" />
 </manifest>
